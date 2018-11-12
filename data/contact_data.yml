@@ -1,0 +1,13 @@
+test_add_contact:
+  test_add_contact_001:
+    name: "zhangsan"
+    phone: "13333333333"
+  test_add_contact_002:
+    name: "lisi"
+    phone: "18888889999"
+  test_add_contact_003:
+    name: "xiaoming"
+    phone: "13480000000"
+  test_add_contact_004:
+    name: "xiaohong"
+    phone: "13222222222"
